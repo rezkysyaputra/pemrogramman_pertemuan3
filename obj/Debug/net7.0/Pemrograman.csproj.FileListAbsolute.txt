@@ -1,0 +1,30 @@
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\bin\Debug\net7.0\Pemrograman.exe
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\bin\Debug\net7.0\Pemrograman.deps.json
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\bin\Debug\net7.0\Pemrograman.runtimeconfig.json
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\bin\Debug\net7.0\Pemrograman.dll
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\bin\Debug\net7.0\Pemrograman.pdb
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\obj\Debug\net7.0\Pemrograman.csproj.AssemblyReference.cache
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\obj\Debug\net7.0\Pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\obj\Debug\net7.0\Pemrograman.AssemblyInfoInputs.cache
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\obj\Debug\net7.0\Pemrograman.AssemblyInfo.cs
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\obj\Debug\net7.0\Pemrograman.csproj.CoreCompileInputs.cache
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\obj\Debug\net7.0\Pemrograman.dll
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\obj\Debug\net7.0\refint\Pemrograman.dll
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\obj\Debug\net7.0\Pemrograman.pdb
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\obj\Debug\net7.0\Pemrograman.genruntimeconfig.cache
+D:\FILE ZAKY\AMIKOM\TUGAS\Pemrograman\obj\Debug\net7.0\ref\Pemrograman.dll
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\bin\Debug\net7.0\Pemrograman.exe
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\bin\Debug\net7.0\Pemrograman.deps.json
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\bin\Debug\net7.0\Pemrograman.runtimeconfig.json
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\bin\Debug\net7.0\Pemrograman.dll
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\bin\Debug\net7.0\Pemrograman.pdb
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\obj\Debug\net7.0\Pemrograman.csproj.AssemblyReference.cache
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\obj\Debug\net7.0\Pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\obj\Debug\net7.0\Pemrograman.AssemblyInfoInputs.cache
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\obj\Debug\net7.0\Pemrograman.AssemblyInfo.cs
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\obj\Debug\net7.0\Pemrograman.csproj.CoreCompileInputs.cache
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\obj\Debug\net7.0\Pemrograman.dll
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\obj\Debug\net7.0\refint\Pemrograman.dll
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\obj\Debug\net7.0\Pemrograman.pdb
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\obj\Debug\net7.0\Pemrograman.genruntimeconfig.cache
+D:\FILE ZAKY\Bahasa programmer\Program\Semester 2\C# Language\Tugas 3\obj\Debug\net7.0\ref\Pemrograman.dll
