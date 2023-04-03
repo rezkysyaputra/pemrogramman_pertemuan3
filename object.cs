@@ -1,21 +1,21 @@
 ﻿using System;
-
-namespace Tugas3
+internal class Program
 {
-    internal class  program
+    static void Main(string[] args)
     {
-        static void Main(string[]args){
-            Mobil mobil1 = new Mobil();
-            mobil1.warna = "Merah";
-            mobil1.jumlahPintu = 2;
-            mobil1.merek = "Lamborghini";
-            mobil1.model = "Sport";
-            mobil1.tahunKeluaran = 1960;
+        // membuat object yang bernama mobil1 dari class Mobil
+        Mobil mobil1 = new Mobil();
 
-            mobil1.klakson("Brrrmmm...Brrrmmm...Brrrmmm...");
-            mobil1.gas(230);
-            mobil1.tampilkanInfo();
-        }
+        // memberi nilai pada properti mobil1
+        mobil1.Warna = "Merah";
+        mobil1.JumlahPintu = 2;
+        mobil1.Merek = "Lamborghini";
+        mobil1.Model = "Sport";
+        mobil1.TahunKeluaran = 1960;
+
+        // menggunakan method pada object mobil1
+        mobil1.Klakson("Brrrmmm...Brrrmmm...Brrrmmm...");
+        mobil1.Gas(230);
+        mobil1.TampilkanInfo();
     }
 }
-

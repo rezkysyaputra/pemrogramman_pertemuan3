@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FILE ZAKY\\Bahasa programmer\\Program\\Semester 2\\C# Language\\Tugas 3\\Pemrograman.csproj",
+      "projectUniqueName": "D:\\FILE ZAKY\\Ngoding\\Program\\Semester 2\\C# Language\\Tugas 3\\Pemrograman.csproj",
       "projectName": "Pemrograman",
-      "projectPath": "D:\\FILE ZAKY\\Bahasa programmer\\Program\\Semester 2\\C# Language\\Tugas 3\\Pemrograman.csproj",
+      "projectPath": "D:\\FILE ZAKY\\Ngoding\\Program\\Semester 2\\C# Language\\Tugas 3\\Pemrograman.csproj",
       "packagesPath": "C:\\Users\\Muh. Rezky Syaputra\\.nuget\\packages\\",
-      "outputPath": "D:\\FILE ZAKY\\Bahasa programmer\\Program\\Semester 2\\C# Language\\Tugas 3\\obj\\",
+      "outputPath": "D:\\FILE ZAKY\\Ngoding\\Program\\Semester 2\\C# Language\\Tugas 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Muh. Rezky Syaputra\\AppData\\Roaming\\NuGet\\NuGet.Config"
